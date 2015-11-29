@@ -18,6 +18,9 @@ baton_2_mimi->getSpell(boule_de_foudre_op);
 blooue->getArme(baton_2_mimi);
 david->putInfoPerso();
 blooue->putInfoPerso();
+Arme* dague_1 = new Arme("Coutelat",dague,7,2);
+david->getArme(dague_1);
+david->putInfoPerso();
 
 
 return 0;

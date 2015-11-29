@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1448835274 source:c:\users\ambie\documents\programmation\github\rpg_makablooue\arme.cpp
+	"Arme.h"
+
+1448835274 c:\users\ambie\documents\programmation\github\rpg_makablooue\arme.h
+	<iostream>
+	<string>
+	"Spell.h"
+
+1448835274 c:\users\ambie\documents\programmation\github\rpg_makablooue\spell.h
+	<string>
+	<iostream>
+
+1448835274 source:c:\users\ambie\documents\programmation\github\rpg_makablooue\personnage.cpp
+	"Personnage.h"
+
+1448835274 c:\users\ambie\documents\programmation\github\rpg_makablooue\personnage.h
+	<iostream>
+	<string>
+	"Arme.h"
+
+1448835274 source:c:\users\ambie\documents\programmation\github\rpg_makablooue\spell.cpp
+	"Spell.h"
+
